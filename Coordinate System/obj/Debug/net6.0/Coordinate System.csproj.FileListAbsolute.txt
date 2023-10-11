@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Coordinate System\Coordinate System\bin\Debug\net6.0\Coordinate System.exe
+C:\Users\User\source\repos\Coordinate System\Coordinate System\bin\Debug\net6.0\Coordinate System.deps.json
+C:\Users\User\source\repos\Coordinate System\Coordinate System\bin\Debug\net6.0\Coordinate System.runtimeconfig.json
+C:\Users\User\source\repos\Coordinate System\Coordinate System\bin\Debug\net6.0\Coordinate System.dll
+C:\Users\User\source\repos\Coordinate System\Coordinate System\bin\Debug\net6.0\Coordinate System.pdb
+C:\Users\User\source\repos\Coordinate System\Coordinate System\obj\Debug\net6.0\Coordinate System.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Coordinate System\Coordinate System\obj\Debug\net6.0\Coordinate System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Coordinate System\Coordinate System\obj\Debug\net6.0\Coordinate System.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Coordinate System\Coordinate System\obj\Debug\net6.0\Coordinate System.AssemblyInfo.cs
+C:\Users\User\source\repos\Coordinate System\Coordinate System\obj\Debug\net6.0\Coordinate System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Coordinate System\Coordinate System\obj\Debug\net6.0\Coordinate System.dll
+C:\Users\User\source\repos\Coordinate System\Coordinate System\obj\Debug\net6.0\refint\Coordinate System.dll
+C:\Users\User\source\repos\Coordinate System\Coordinate System\obj\Debug\net6.0\Coordinate System.pdb
+C:\Users\User\source\repos\Coordinate System\Coordinate System\obj\Debug\net6.0\Coordinate System.genruntimeconfig.cache
+C:\Users\User\source\repos\Coordinate System\Coordinate System\obj\Debug\net6.0\ref\Coordinate System.dll
+C:\Users\User\Desktop\coordinate-system\Coordinate System\bin\Debug\net6.0\Coordinate System.exe
+C:\Users\User\Desktop\coordinate-system\Coordinate System\bin\Debug\net6.0\Coordinate System.deps.json
+C:\Users\User\Desktop\coordinate-system\Coordinate System\bin\Debug\net6.0\Coordinate System.runtimeconfig.json
+C:\Users\User\Desktop\coordinate-system\Coordinate System\bin\Debug\net6.0\Coordinate System.dll
+C:\Users\User\Desktop\coordinate-system\Coordinate System\bin\Debug\net6.0\Coordinate System.pdb
+C:\Users\User\Desktop\coordinate-system\Coordinate System\obj\Debug\net6.0\Coordinate System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\coordinate-system\Coordinate System\obj\Debug\net6.0\Coordinate System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\coordinate-system\Coordinate System\obj\Debug\net6.0\Coordinate System.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\coordinate-system\Coordinate System\obj\Debug\net6.0\Coordinate System.AssemblyInfo.cs
+C:\Users\User\Desktop\coordinate-system\Coordinate System\obj\Debug\net6.0\Coordinate System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\coordinate-system\Coordinate System\obj\Debug\net6.0\Coordinate System.dll
+C:\Users\User\Desktop\coordinate-system\Coordinate System\obj\Debug\net6.0\refint\Coordinate System.dll
+C:\Users\User\Desktop\coordinate-system\Coordinate System\obj\Debug\net6.0\Coordinate System.pdb
+C:\Users\User\Desktop\coordinate-system\Coordinate System\obj\Debug\net6.0\Coordinate System.genruntimeconfig.cache
+C:\Users\User\Desktop\coordinate-system\Coordinate System\obj\Debug\net6.0\ref\Coordinate System.dll
